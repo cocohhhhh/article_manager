@@ -1,4 +1,4 @@
-This is a personal RSS reader I developed for my own use.
+This is an RSS reader for **LESS** information consumption and better reading habits.
 
 # Quick Start
 If you're interested in trying it out, feel free to fork this repository and deploy it on Vercel. You can easily create a new Vercel project from GitHub using [this link](https://vercel.com/new). This way, you'll have your own customized RSS reader.
